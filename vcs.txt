@@ -1,2 +1,3 @@
+Estamos
 Aprendendo Git
-Na prática
+Na prática!
